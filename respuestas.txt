@@ -1,0 +1,9 @@
+RESPUESTAS
+7: La diferencia que se observa al ejecutar el comando git status y ver en otro color el archivo que 
+adicionamos al area de preparacion es porque fue el archivo que ya esta preparado para subir a nuestro
+repositorio y los demas archivos que estan en rojo son los que aun no han sido preparados o seleccionados
+para subir
+13:Nos aparece de nuevo el archivo Hola.js para seleccionarlo al area de preparacion ya que tuvo un 
+cambio en su codificacion
+15: Al ver el historial de cambios evidenciamos las modificaciones de codigo en el archivo en los diferentes
+commits realizados.
